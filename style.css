@@ -67,7 +67,7 @@ top: 0;
 
 
   body,html{scroll-behavior: smooth;}
-  body{background:rgba(0,0,0,0.7);overflow-x: hidden;}
+  body{background:rgba(0,0,0,1);overflow-x: hidden;}
 
 .container-fluid .input-group-append, .container-fluid .input-group{
   display: inline-block;
